@@ -1,0 +1,11 @@
+{
+  "name": "yachay/mvc",
+  "description": "MVC base for Yachay login",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
